@@ -1,0 +1,6 @@
+/*
+ * $Id: weu.rc,v 1.1 1999/09/13 08:38:34 Stephane Exp $
+ */
+
+DEFAULTICON "weu.ico"
+

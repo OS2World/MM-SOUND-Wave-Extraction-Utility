@@ -1,0 +1,25 @@
+                           Upload Information Template for Hobbes.nmsu.edu
+                           ===============================================
+
+        Archive Filename:  weu_05_beta.zip
+       Short Description:  Wave Extraction Utility for OS/2
+        Long Description:  command-line application to extract and convert .WAV files from other binary files, such as some digital camera images (Kodak DC260+, others?)
+
+      Proposed directory
+           for placement:  /pub/os2/apps/mmedia/sound/util
+
+               Your name:  Stephane Charette
+           Email address:  charette@writeme.com
+    Program contact name:  (same)
+   Program contact email:  (same)
+             Program URL:  http://users.uniserve.ca/~software/weu/index.html
+
+      Would you like the
+   contact email address
+    included in listings?  yes
+
+Operating System/Version:  OS/2 v3.x and higher
+ Additional requirements:  
+
+                Replaces:  weu_*.zip
+

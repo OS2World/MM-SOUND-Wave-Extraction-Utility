@@ -1,0 +1,14 @@
+The source code for WEU comes in 2 parts:
+
+1) WEU.CPP, WEU.ICO, WEU.RC
+   - the OS/2 source code written by Stephane Charette <charette@writeme.com>
+     is available at <users.uniserve.ca/~software/weu/>.
+
+2) LibSndFile v0.0.16
+   - the sound file library written by Erik de Castro Lopo <erikd@zip.com.au>
+     is available at <www.zip.com.au/~erikd/libsndfile/>.
+
+
+Stephane Charette, charette@writeme.com
+1999.Oct.04
+
